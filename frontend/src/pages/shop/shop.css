@@ -1,0 +1,127 @@
+/* General style */
+button {
+  background-color: #4747ff;
+}
+button:hover {
+  background-color: #4f6be6;
+  transition: background-color 0.3s ease;
+}
+
+/* Shop Title */
+.shopTitle {
+  text-align: center;
+  color: #333;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 2rem;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  margin-bottom: 20px;
+}
+
+/* Products Grid */
+.products {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  max-width: 1200px;
+  margin: 0 auto;
+  gap: 20px; /* Added gap between products */
+}
+
+/* Individual Product Card */
+.product {
+  width: 16rem;
+  height: 23rem;
+  margin: 2rem;
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  overflow: hidden;
+  transition: transform 0.3s ease-in-out;
+
+  /* Added flexbox layout */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.product:hover {
+  transform: translateY(-5px);
+}
+
+/* Product Image */
+img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+
+/* Product Description */
+.description {
+  text-align: center;
+  padding: 1rem;
+  flex-grow: 1; /* Ensures that the description takes up available space */
+}
+
+/* Add to Cart Button */
+.AddToCart {
+  outline: none;
+  border: none;
+  color: #fff;
+  border-radius: 4px;
+  padding: 0.5rem 1rem;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background-color 0.3s ease-in-out;
+  align-self: center; /* Ensures the button is horizontally centered */
+  margin-bottom: 1rem; /* Adds some spacing at the bottom */
+}
+
+/* Add Product Button */
+.add-product-btn {
+  color: white;
+  padding: 10px 20px;
+  margin: 8px auto;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  display: block;
+}
+
+/* Pagination */
+.pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
+/* Pagination Buttons */
+.pagination-button {
+  width: 6em;
+  text-align: center;
+  padding: 7px 10px;
+  color: white;
+  border: none;
+  margin: 0 10px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.pagination-button:disabled {
+  opacity: 0.7;
+  cursor: not-allowed;
+}
+
+/* Page Indicator */
+.page-indicator {
+  font-size: 16px;
+  color: #333;
+}
+
+/* Shop Container */
+.shop {
+  padding: 20px;
+}

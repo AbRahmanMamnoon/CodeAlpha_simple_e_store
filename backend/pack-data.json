@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Fjallraven Backpack",
+    "price": 109.95,
+    "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg"
+  },
+  {
+    "name": "Mens Slim T-Shirts",
+    "price": 22.3,
+    "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg"
+  },
+  {
+    "name": "Mens Cotton Jacket",
+    "price": 55.99,
+    "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg"
+  },
+  {
+    "name": "Mens Slim Fit",
+    "price": 15.99,
+    "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg"
+  },
+  {
+    "name": "John Hardy Bracelet",
+    "price": 695,
+    "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg"
+  },
+  {
+    "name": "Solid Gold Micropave",
+    "price": 168,
+    "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg"
+  },
+  {
+    "name": "White Gold Princess",
+    "price": 9.99,
+    "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg"
+  },
+  {
+    "name": "Pierced Owl Necklace",
+    "price": 10.99,
+    "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg"
+  },
+  {
+    "name": "WD Portable Hard Drive",
+    "price": 64,
+    "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg"
+  },
+  {
+    "name": "SanDisk SSD Drive",
+    "price": 109,
+    "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg"
+  },
+  {
+    "name": "Silicon Power SSD",
+    "price": 109,
+    "image": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg"
+  },
+  {
+    "name": "WD Gaming Drive",
+    "price": 114,
+    "image": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg"
+  },
+  {
+    "name": "Acer Ultra-Thin Monitor",
+    "price": 599,
+    "image": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg"
+  },
+  {
+    "name": "Samsung Gaming Monitor",
+    "price": 999.99,
+    "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg"
+  },
+  {
+    "name": "BIYLACLESEN Snowboard Jacket",
+    "price": 56.99,
+    "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg"
+  },
+  {
+    "name": "Lock and Love Jacket",
+    "price": 29.95,
+    "image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg"
+  },
+  {
+    "name": "Rain Jacket Windbreaker",
+    "price": 39.99,
+    "image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg"
+  },
+  {
+    "name": "MBJ Women's T-Shirt",
+    "price": 9.85,
+    "image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg"
+  },
+  {
+    "name": "Opna Women's Top",
+    "price": 7.95,
+    "image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg"
+  },
+  {
+    "name": "DANVOUY Women's Tee",
+    "price": 12.99,
+    "image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg"
+  }
+]

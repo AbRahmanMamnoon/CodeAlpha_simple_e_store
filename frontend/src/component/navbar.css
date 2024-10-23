@@ -1,0 +1,47 @@
+.navbar {
+  background-color: black;
+  display: flex;
+  justify-content: flex-end;
+  padding: 0.5rem 2rem 0.5rem 0;
+  align-items: center;
+  height: 2rem;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1;
+}
+.links {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  margin-right: 2rem;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+  font-size: large;
+  color: aliceblue;
+  font-family: 'Montserrat', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-weight: bold;
+  /* Add this line to make the links responsive */
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+.links a {
+  text-decoration: none;
+  font-size: large;
+  color: aliceblue;
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
+  font-family: 'Courier New', Courier, monospace;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-weight: bold;
+}
+
+.links a:hover {
+  color: rgb(186, 184, 184);
+  transition: 0.5s;
+  cursor: pointer;
+}
